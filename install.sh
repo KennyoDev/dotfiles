@@ -2,7 +2,7 @@ cp waybar/config.jsonc ~/.config/waybar/
 
 cp waybar/style.css ~/.config/waybar/
 
-cp waybar/pwoff/pwoff /usr/local/bin/
+sudo cp waybar/pwoff/pwoff /usr/local/bin/
 
 cp kitty/kitty.conf ~/.config/kitty/
 
