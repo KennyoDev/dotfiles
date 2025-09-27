@@ -36,7 +36,7 @@
     "tooltip": false
   },
   "clock": {
-    "timezone": "Berlin",
+    "timezone": "CET",
     "format": "{:%I:%M  %d, %m}",
     "tooltip-format": "{calendar}",
     "calendar": {
